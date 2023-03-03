@@ -1,0 +1,19 @@
+{
+  "feedbacks": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "I absolutely loved shopping on this ecommerce site! The selection was great and the prices were very competitive. Plus, the delivery was super fast and the packaging was top-notch. I couldn't be happier with my purchase!"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "Overall, my experience on this ecommerce site was really good. The product I ordered was high quality and arrived in a timely manner. The only small issue was that the website was a bit slow at times, but it wasn't a huge problem. I would definitely consider shopping here again."
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "text": "Honestly, I was pretty disappointed with my experience on this ecommerce site. The product I received was okay, but it didn't quite meet my expectations based on the description and photos. Additionally, the delivery took longer than expected and there were some issues with the tracking information. I don't think I'll be shopping here again."
+    }
+  ]
+}
